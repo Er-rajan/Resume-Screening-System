@@ -25,3 +25,25 @@ Resume_Project/
 ├── parser_utils.py     # PDF extraction & NLP cleaning
 ├── requirements.txt    # Project dependencies
 └── README.md           # Documentation
+
+
+## How To Run
+
+Setup Virtual Environment
+
+-->
+python3 -m venv venv
+source venv/bin/activate
+
+
+Install Dependencies
+
+-->
+python3 -m pip install -r requirements.txt
+python3 -m spacy download en_core_web_sm
+
+Launch the Application
+Start the Streamlit local server:
+
+-->
+python3 -m streamlit run app.py

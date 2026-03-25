@@ -1,0 +1,20 @@
+# Environments
+venv/
+.env
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+.vscode/
+
+# Project specific
+temp.pdf
+data/*.pdf
+data/*.docxvenv/
+__pycache__/
+*.pyc
+.env
