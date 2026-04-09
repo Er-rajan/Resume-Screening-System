@@ -1,9 +1,4 @@
-import spacy
-import PyPDF2
-import docx  
-import re
-import sys
-import subprocess
+
 
 
 def load_spacy_model():
