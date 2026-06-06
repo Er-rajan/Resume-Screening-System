@@ -8,7 +8,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 SKILL_DB = {
     "MERN_Stack": ["MongoDB", "Express", "React", "Node", "JavaScript", "Redux", "Next.js"],
-    "AI_ML": ["Python", "PyTorch", "TensorFlow", "Scikit-learn", "NLP", "Computer Vision", "Keras"],
+    "AI_ML": ["Python", "PyTorch", "TensorFlow", "Scikit-learn", "NLP", "Computer Vision", "Keras","Numpy"],
     "Databases": ["MySQL", "PostgreSQL", "Redis", "Firebase", "Oracle", "MongoDB"],
     "OS": ["Linux", "Ubuntu", "Fedora", "Windows Server", "Unix", "WSL"]
 }
