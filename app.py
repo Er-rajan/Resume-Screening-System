@@ -1,4 +1,5 @@
 import streamlit as st
+import numpy as np
 import pandas as pd
 import os
 from parser_utils import extract_text_from_pdf, clean_resume
