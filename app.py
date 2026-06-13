@@ -1,5 +1,6 @@
 import streamlit as st
 import numpy as np
+import metplotlib as mt
 import pandas as pd
 import os
 from parser_utils import extract_text_from_pdf, clean_resume
