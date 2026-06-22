@@ -30,7 +30,7 @@ Resume_Project/
 ## How To Run
 
 Setup Virtual Environment
-
+compiling can show issue 
 -->
 python3 -m venv venv
 source venv/bin/activate
